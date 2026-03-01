@@ -1,19 +1,33 @@
 payload:
-  - DOMAIN-SUFFIX,fc2ppvdb.com
-  - DOMAIN-SUFFIX,prestige-av.com
-  - DOMAIN-SUFFIX,av-e-body.com
-  - DOMAIN-SUFFIX,moodyz.com
-  - DOMAIN-SUFFIX,s1s1s1.com
-  - DOMAIN-SUFFIX,ideapocket.com
-  - DOMAIN-SUFFIX,attackers.net
-  - DOMAIN-SUFFIX,sod.co.jp
-  - DOMAIN-SUFFIX,mgstage.com
-  - DOMAIN-SUFFIX,caribbeancom.com
   - DOMAIN-SUFFIX,1pondo.tv
-  - DOMAIN-SUFFIX,heyzo.com
-  - DOMAIN-SUFFIX,heydouga.com
-  - DOMAIN-SUFFIX,10musume.com
+  - DOMAIN-SUFFIX,adult.contents.fc2.com
+  - DOMAIN-SUFFIX,alicejapan.co.jp
+  - DOMAIN-SUFFIX,attackers.net
   - DOMAIN-SUFFIX,av-channel.com
+  - DOMAIN-SUFFIX,av-e-body.com
+  - DOMAIN-SUFFIX,caribbeancom.com
   - DOMAIN-KEYWORD,dmm
+  - DOMAIN-SUFFIX,fc2ppvdb.com
   - DOMAIN-KEYWORD,fc2
   - DOMAIN-KEYWORD,fanza
+  - DOMAIN-SUFFIX,gloryquest.tv
+  - DOMAIN-SUFFIX,h4610.com
+  - DOMAIN-SUFFIX,heydouga.com
+  - DOMAIN-SUFFIX,heyzo.com
+  - DOMAIN-SUFFIX,hibino.com
+  - DOMAIN-SUFFIX,ideapocket.com
+  - DOMAIN-SUFFIX,kawaiikawaii.jp
+  - DOMAIN-SUFFIX,madonna-av.com
+  - DOMAIN-SUFFIX,mgstage.com
+  - DOMAIN-SUFFIX,moodyz.com
+  - DOMAIN-SUFFIX,muramura.tv
+  - DOMAIN-SUFFIX,oppai-av.com
+  - DOMAIN-SUFFIX,prestige-av.com
+  - DOMAIN-SUFFIX,rocket-inc.net
+  - DOMAIN-SUFFIX,s1s1s1.com
+  - DOMAIN-SUFFIX,sod.co.jp
+  - DOMAIN-SUFFIX,tameikegoro.jp
+  - DOMAIN-SUFFIX,venus-av.com
+  - DOMAIN-SUFFIX,waap.co.jp
+  - DOMAIN-SUFFIX,xcity.jp
+  - DOMAIN-SUFFIX,10musume.com
