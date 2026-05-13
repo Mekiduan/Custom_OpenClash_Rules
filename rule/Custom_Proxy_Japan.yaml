@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,av-e-body.com
   - DOMAIN-SUFFIX,caribbeancom.com
   - DOMAIN-KEYWORD,dmm
+  - DOMAIN-SUFFIX,dmm.co.jp
   - DOMAIN-KEYWORD,fc2
   - DOMAIN-KEYWORD,fanza
   - DOMAIN-SUFFIX,gloryquest.tv
